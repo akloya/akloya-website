@@ -1,6 +1,6 @@
 ---
 title: KNOW MORE <br> ABOUT ME
-image: images/backgrounds/portrait.jpg
+image: images/img_20200222_113228.jpg
 button:
   enable: false
   label: DOWNLOAD MY CV
