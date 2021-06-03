@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 title = "Ajaya | Hugo Portfolio Template"
-theme = "somrat"
+theme = "akloya-website"
 # post pagination
 paginate = "6"
 # post excerpt

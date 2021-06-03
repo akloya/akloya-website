@@ -1,7 +1,7 @@
 ---
 title: "Implementing an On-Demand Feature Environment"
 date: 2021-05-20T12:14:34+06:00
-externallink: "https://devops.com/implementing-an-on-demand-feature-environment/"
+link: "https://devops.com/implementing-an-on-demand-feature-environment/"
 image: "images/portfolio/on-demand-implement.jpg"
 tags: ["CDCI", "ONDEMAND-FEATURE"]
 description: "This is meta description."

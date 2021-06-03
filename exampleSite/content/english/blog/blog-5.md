@@ -8,4 +8,4 @@ description: "This is meta description."
 draft: false
 ---
 
-Orignally Published at DEV.to
+This was Published at DEV.to
