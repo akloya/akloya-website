@@ -13,11 +13,14 @@
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-sm-6 mb-4">
         <div class="card">
-          {{ if .Params.image }} <a class="card-img-wrapper" href="{{.Params.link}}"><img
-              src="{{.Params.image | absURL }}" alt="{{.Title}}" class="card-img-top"></a> {{ end }}
+          {{ if .Params.image }} 
+          <a class="card-img-wrapper" target="_blank" href="{{.Params.link}}">
+            <img src="{{.Params.image | absURL }}" alt="{{.Title}}" class="card-img-top"> {{ end }}
           <div class="card-body">
-            <h4 class="mb-2"><a class="card-title" href={{.Permalink}}>{{.Title}}</a></h4>
+            <h4 class="mb-2">{{.Title}}</h4>
+          </a>
             <small>{{ .PublishDate.Format "January 2, 2006" }}</small>
+
             <p class="card-text">{{.Summary}}</p>
           </div>
         </div>

@@ -53,12 +53,12 @@
             <ul class="list-unstyled widget-list">
               <li class="media widget-post align-items-center">
                 {{ if .Params.image }}
-                <a href="{{ .Params.link }}">
+                <a target="_blank" href="{{ .Params.link }}">
                   <img class="widget-img" src="{{.Params.image | absURL}}" alt="{{.Title}}">
-                </a>
                 {{ end }}
                 <div class="media-body">
-                  <h5 class="h6 mb-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+                  <h5 class="h6 mb-0">{{ .Title }}</h5>
+                </a>
                   <small>{{ .PublishDate.Format "January 2, 2006" }}</small>
                 </div>
               </li>
