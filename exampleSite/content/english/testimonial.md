@@ -52,6 +52,5 @@ testimonial_slider:
 custom_class: ''
 custom_attributes: ''
 custom_css: ''
-draft: true
 
 ---
