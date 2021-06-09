@@ -1,10 +1,6 @@
 ---
 title: TESTIMONIALS
 testimonial_slider:
-- name: ''
-  image: ''
-  designation: ''
-  content: ''
 - name: Leo Nacelli
   image: images/clients/leonacelli.jpeg
   designation: Chief Information Officer, Akeso Medical Holdings LLC
