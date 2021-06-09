@@ -7,7 +7,6 @@ sections:
 - type: document
   path: exampleSite/content/english/testimonial.md
   label: testimonial
-  match: "**/*"
 - type: document
   path: exampleSite/content/english/about.md
   label: About Me
