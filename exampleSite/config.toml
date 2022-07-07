@@ -128,11 +128,11 @@ weight = 2
 #url = "portfolio"
 #weight = 4
 
-[[Languages.en.menu.main]]
-name = "Publications"
-pre = "#"
-url = "publications"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "Publications"
+#pre = "#"
+#url = "publications"
+#weight = 5
 
 [[Languages.en.menu.main]]
 name = "Testimonial"
