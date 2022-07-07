@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Ajaya | Hugo Portfolio Template"
+title = "Ajaya | Hugo Template"
 theme = "akloya-website"
 # post pagination
 paginate = "6"
@@ -122,11 +122,11 @@ pre = "#"
 url = "about"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "portfolio"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "Portfolio"
+#pre = "#"
+#url = "portfolio"
+#weight = 4
 
 [[Languages.en.menu.main]]
 name = "Publications"
@@ -173,11 +173,11 @@ pre = "#"
 url = "service"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "portfolio"
-weight = 4
+#[[Languages.fr.menu.main]]
+#name = "Portfolio"
+#pre = "#"
+#url = "portfolio"
+#weight = 4
 
 [[Languages.fr.menu.main]]
 name = "Testimonial"
